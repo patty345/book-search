@@ -18,3 +18,14 @@ to search books using the Google Search API.
 
 # Screenshots
 
+![SignUp](./client/public/images/SignUpScreen.png)
+![LoginScreen](./client/public/images/LoginScreen.png)
+![SavedBooks](./client/public//images/SavedBooksScreen.png)
+
+# Technologies Used
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
